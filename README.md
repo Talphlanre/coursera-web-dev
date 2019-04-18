@@ -1,3 +1,1 @@
-"# coursera-web-dev" 
-Hello World
-Rohit is learning how to use github
+My Solutions to the Coursera course: "HTML, CSS and JavaScript" of John Hopkins University taught by Mr Yaakov Chaikin.
